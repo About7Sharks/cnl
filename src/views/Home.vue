@@ -19,9 +19,9 @@
  </div>
   </div>
   <div class="panel3">
-    <p>There are thousands of useful guides, tips, blog posts, and articles that you can read to help you improve as a product person.
+    <p>There are thousands of useful guides, tips, blog posts, and articles that you can read to help you improve as a coder.
 
-But, I know how busy you are. Out there, building and growing your products. Look at you go. I'm proud of you.
+But, I know how busy you are. Out there, building and growing your projects. Look at you go. I'm proud of you.
 
 <strong>So I saved you the time and found the best ones for you</strong> and will send you one every week, along with a summary, in a free newsletter.</p>
   </div>
@@ -40,20 +40,20 @@ But, I know how busy you are. Out there, building and growing your products. Loo
       <h4>How It Works</h4>
 <p style="font-size:1.3rem;">Here's the same information that I said above but, this time, with colorful bullets and a pretty SVG image on the side.
 </p>
-<h5>The Product Person is a weekly newsletter</h5><p>
-Every week, you'll receive a summary and a link to 1 article that will help you become a better all-around “product person.”
+<h5>The CNL is a weekly newsletter</h5><p>
+Every week, you'll receive a summary and a link to 1 article that will help you become a better all-around “Coder.”
 </p>
 <h5>You'll get 1 article a week in your inbox</h5><p>
 I know how much information load is on the internet. So I curate the articles and send you only 1 weekly to thoroughly digest.
 </p>
-<h5>Useful articles to improve your product skills</h5><p>
-Article subject matter ranges from how to storytell, how to start and grow a product, to how to build a product from scratch.
+<h5>Useful articles to improve your coding skills</h5><p>
+Article subject matter ranges from how to storytell, how to start and grow a project, to how to build a project from scratch.
  </p> </div></div>
  <div class="panel6">
 <div class="text">
-  <h3>   Become A Product Person 🛠️
+  <h3>   Become A Coder 🛠️
 </h3>
-<p>Get 1 article + a summary every week in your inbox that'll improve your product skills.
+<p>Get 1 article + a summary every week in your inbox that'll improve your coding skills.
 </p> 
 </div>
         <span><input placeholder="elon@musk" type="email">&nbsp;<button>Subscribe Today</button></span>
@@ -82,7 +82,6 @@ Article subject matter ranges from how to storytell, how to start and grow a pro
   flex-direction: column;
   color: white;
   text-shadow: 2px 2px #292929;
-
 }
   .panel1 {
     background: rgb(70, 70, 192);
