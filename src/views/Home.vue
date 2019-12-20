@@ -68,11 +68,16 @@ Article subject matter ranges from how to storytell, how to start and grow a pro
 <script>
   // @ is an alias to /src
   // import HelloWorld from '@/components/HelloWorld.vue'
-
+  import axios from 'axios'
   export default {
     name: 'home',
     components: {
       // HelloWorld
+    },
+    mounted(){
+      axios.get('https://cnl.netlify.com/.netlify/functions/hello').then(res=>{
+        console.log(res)
+      })
     }
   }
 </script>
